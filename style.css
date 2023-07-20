@@ -1,0 +1,43 @@
+body{
+     background-color: rgb(162, 175, 119);
+     color: rgb(0,0,0);
+     font-family: 'Poppins', sans-serif;
+
+}
+
+.titulo{
+     color: rgb(198, 93, 25);
+     font-family: 'Poppins', sans-serif;
+     font-size: xxx-large;
+}
+
+h2{
+     color: rgb(94, 64, 29);
+}
+
+h3{
+     color: rgb(224, 239, 227);
+}
+
+a{
+     color: whitesmoke;
+}
+
+.imagen1{
+     width: 350px;
+     height: 250px;
+}
+
+img{
+     width: 350px;
+}
+
+.text-justify{
+     text-align: justify;
+     }
+
+/*
+selector {
+     propiedad: valor;
+}
+*/
